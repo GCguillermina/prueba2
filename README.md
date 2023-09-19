@@ -1,2 +1,2 @@
 # prueba2
-mi segundo repositorio de prueba
+este proyecto es el segundo repositoria de prueba 
